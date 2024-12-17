@@ -89,7 +89,7 @@ export function Quiz({ onStart, onEnd, removePopup }: QuizProps) {
           Chaos Quiz Challenge
         </h1>
         <p className="text-gray-600 mb-8">
-          Let's do a simple test! You have one minute. Good luck!
+          Let's do a simple test! Good luck!
           <br />
           <span className="text-sm text-red-500">
             Quiz will restart after 20 seconds of inactivity!
